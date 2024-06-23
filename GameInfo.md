@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Page Title</title>
 </head>
 <body>
 
-<h1>My First Heading</h1>
-<p>My first paragraph.</p>
+<h1>Water Gate:Game Info</h1>
+<p>Download as a zip.</p>
+<p>Load</p>
 
 </body>
 </html>
